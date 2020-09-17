@@ -1,2 +1,4 @@
-/home/* https://lemusbranch.com/home/:splat 200!
+/home/* https://lemusbranch.com/:splat 200!
+/Contact/*
+/About/*
 /prop12402/* https://12402-grand-oaks-dr.netlify.app/:splat 200!
